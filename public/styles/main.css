@@ -1,0 +1,31 @@
+.gradient-background {
+    background: linear-gradient(300deg, #2311ED, #D286F6 );
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+} 
+
+.background-color{
+    background-color: white;
+}
+
+/*.roll {
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      translate: 150vw 0;
+      scale: 200% 1;
+    }
+  
+    to {
+      translate: 0 0;
+      scale: 100% 1;
+    }
+}*/
+/* #2311ED, #D286F6 
+
+*/
+
+
